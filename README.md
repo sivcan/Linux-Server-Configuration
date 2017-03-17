@@ -8,7 +8,7 @@ Notes for reviewer:
 * SSH PORT: `2200`
 * Full project URL: <del>[http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/](http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/)</del>
 
-
+Update : The server is down now because this project was live only during the reviewing period. 
 
 ### Tasks given and method for completion:
 
@@ -178,7 +178,7 @@ Notes for reviewer:
   * `sudo service apache2 restart`
 
 * Clone Github Repo
-    * `sudo git clone https://github.com/sivcan/devpost.git`
+    * `sudo git clone https://github.com/sivcan/Item-Catalog`
     * make sure you get hidden files iin move `shopt -s dotglob`. Move files from clone directory to catalog `mv /var/www/catalog/devpost/* /var/www/catalog/catalog/`
     * remove clone directory `sudo rm -r devpost`
 
