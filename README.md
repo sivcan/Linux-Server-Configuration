@@ -1,12 +1,12 @@
 # Linux Server Configuration
 - Project 7 under the Full Stack Web Developer Nanodegree at Udacity
 
-See project live at: [http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/](http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/)
+See project live at: <del>[http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/](http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/)</del>
 
 Notes for reviewer:
-* public Ip: `35.160.19.49`
+* public Ip: <del>`35.160.19.49`</del>
 * SSH PORT: `2200`
-* Full project URL: [http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/](http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/)
+* Full project URL: <del>[http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/](http://ec2-35-160-19-49.us-west-2.compute.amazonaws.com/)</del>
 
 
 
